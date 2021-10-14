@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UpyOM2cIy1EQ4Y1OrDnv31CwuMseZW_nRUS3VsZUQas=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4V_2z5J8GKnRCWx6sMQJ9d25BT5lNKfnk3IwPNFenA0=.hash",
       "Source": "C:\\Users\\Morley\\source\\repos\\Git\\KATABlazor\\KATA\\KATA\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\KATA.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/KATA.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\MqJREROTsXnIrX95qxc9pDnoERnc4W8yoylz8o3pbxs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tfO-fzCzaeVR84h0hO817AMVO6w2DktKGx4bRow2fhU=.hash",
       "Source": "C:\\Users\\Morley\\source\\repos\\Git\\KATABlazor\\KATA\\KATA\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\KATA.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/KATA.pdb.br"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\78aFA4Wc5a7R9Sqsq2F0HDie7T_2Af9G11SY2Azxl4g=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\klYxQDnpRX8VuxI53dluHbCwjPWWB7hzhEIxboCJWDw=.hash",
       "Source": "C:\\Users\\Morley\\source\\repos\\Git\\KATABlazor\\KATA\\KATA\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
