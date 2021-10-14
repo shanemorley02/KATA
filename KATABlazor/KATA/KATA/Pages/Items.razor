@@ -1,0 +1,46 @@
+@page "/items"
+@inject HttpClient Http
+@inject PricingService service
+
+
+@if (items == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Item SKU</th>
+                <th>Unit Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in items)
+            {
+                <tr>
+                    <td>@item.ItemSKU</td>
+                    <td>@item.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Item[] items;
+
+    protected override async Task OnInitializedAsync()
+    {
+        items = await Http.GetFromJsonAsync<Item[]>("sample-data/items.json");
+    }
+
+    public class Item
+    {
+        public string ItemSKU { get; set; }
+
+        public int UnitPrice { get; set; }
+
+    }
+}
