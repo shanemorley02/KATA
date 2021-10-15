@@ -41,7 +41,9 @@ namespace KATA
                         else {
                             //25% off for every 2 purchased together.
                             tempQty -= 2;
-                            itemTotal += 25 / 100 * item.UnitPrice * 2;
+                            decimal tempPrice = item.UnitPrice * 2;
+                            decimal difference = (tempPrice / 100) * 25;
+                            itemTotal += (tempPrice- difference);
                         }
 
                     } while (tempQty > 0);

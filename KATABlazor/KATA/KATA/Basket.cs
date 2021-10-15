@@ -15,23 +15,36 @@ namespace KATA
             _pricingService = pricingService;
         }
         public List<Item> Items { get; set; }
-        public decimal Total { get; set; }
+        public decimal TotalPrice { get; set; }
+        public int TotalQty { get; set; }
 
         public void AddToBasket(Item item) {
             if (Items == null)
             {
-                Items.Add(item);
+                Items = new List<Item>();
             }
             var existingItem = Items.FirstOrDefault(x => x.ItemSKU == item.ItemSKU);
             if (existingItem == null)
             {
+                item.Qty++;
                 Items.Add(item);
             }
             else {
                 existingItem.Qty++;
             }
 
-            Total = _pricingService.CalculateTotalPrice(Items);
+            TotalPrice = _pricingService.CalculateTotalPrice(Items);
+            TotalQty = CalculateTotalBasketQty(Items);
+        }
+
+        private int CalculateTotalBasketQty(IEnumerable<Item> items) {
+            var totalQty = 0;
+            foreach (var item in items)
+            {
+                totalQty += item.Qty;
+            }
+
+            return totalQty;
         }
     }
 }
