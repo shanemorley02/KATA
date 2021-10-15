@@ -1,6 +1,6 @@
 @page "/items"
 @inject HttpClient Http
-@inject PricingService service
+@inject Basket Basket
 
 
 @if (items == null)
@@ -9,6 +9,7 @@
 }
 else
 {
+    <div>@Basket.Items.Count()</div>
     <table class="table">
         <thead>
             <tr>
@@ -19,28 +20,35 @@ else
         <tbody>
             @foreach (var item in items)
             {
-                <tr>
-                    <td>@item.ItemSKU</td>
-                    <td>@item.UnitPrice</td>
-                </tr>
+            <tr>
+                <td>@item.ItemSKU</td>
+                <td>@item.UnitPrice</td>
+                <td><button class="btn btn-primary" @onclick="() => Add(item)">Add</button></td>
+            </tr>
             }
         </tbody>
     </table>
 }
 
 @code {
-    private Item[] items;
+    private Item[] items = Array.Empty<Item>();
 
     protected override async Task OnInitializedAsync()
     {
         items = await Http.GetFromJsonAsync<Item[]>("sample-data/items.json");
     }
+    
+
+    void Add(Item item) {
+        Basket.AddToBasket(item);
+    }
 
     public class Item
     {
         public string ItemSKU { get; set; }
-
         public int UnitPrice { get; set; }
-
+        public int Qty { get; set; }
+        public bool Promotion { get; set; }
     }
+
 }

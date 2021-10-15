@@ -1,18 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using static KATA.Pages.Items;
 
 namespace KATA
 {
-    public class PricingService
+    public class PricingService: IPricingService
     {
-        public void CalculateTotalPrice() {
-
+        private IPromotionService _promotionService;
+        public PricingService(IPromotionService promotionService)
+        {
+            _promotionService = promotionService;
         }
+        public decimal CalculateTotalPrice(IEnumerable<Item> items) {
+            decimal total = 0.0m;
 
-        public void CalculateItemPrice() {
+            foreach (var item in items)
+            {
+                if (item.Promotion)
+                {
+                    total += _promotionService.CalculatePromotions(item);
+                }
+                else {
+                    total += item.Qty * item.UnitPrice;
+                }
+            }
 
+            return total;
         }
     }
 }

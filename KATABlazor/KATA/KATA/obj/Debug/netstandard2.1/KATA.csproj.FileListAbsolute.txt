@@ -159,7 +159,6 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\S
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.csprojAssemblyReference.cache
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\KATA.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.TagHelpers.input.cache
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.TagHelpers.output.cache
@@ -348,6 +347,6 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\s
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\staticwebassets\KATA.StaticWebAssets.xml
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.pdb
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\4V_2z5J8GKnRCWx6sMQJ9d25BT5lNKfnk3IwPNFenA0=.hash
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\tfO-fzCzaeVR84h0hO817AMVO6w2DktKGx4bRow2fhU=.hash
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\klYxQDnpRX8VuxI53dluHbCwjPWWB7hzhEIxboCJWDw=.hash
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\M4KC3rBQrQ05x8u4RZ9Z-NLzHM_31TfXYkjyxVro6lo=.hash
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\IxV1cMaVmlzBUexONGo5-xenhOiYOGB_MwVeUW0cvrA=.hash
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\jCaFlJmR-Pn9EhLcN1mlnLLQmCDebdfD-5I3hIeF6o0=.hash
