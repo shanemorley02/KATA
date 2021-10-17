@@ -117,8 +117,10 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\bin\Debug\netcor
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.csprojAssemblyReference.cache
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.AssemblyInfoInputs.cache
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.AssemblyInfo.cs
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.csproj.CoreCompileInputs.cache
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.csproj.CopyComplete
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.pdb
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.genruntimeconfig.cache
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATAXUnitTests\obj\Debug\netcoreapp3.1\KATAXUnitTests.csproj.CoreCompileInputs.cache

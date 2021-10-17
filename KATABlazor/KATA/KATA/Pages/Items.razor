@@ -9,39 +9,42 @@
 }
 else
 {
-<div>
-    @if (basket.Items != null)
-    {
-        @foreach (var item in basket.Items)
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Item SKU</th>
+                    <th>Unit Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in items)
+                {
+                    <tr>
+                        <td>@item.ItemSKU</td>
+                        <td>@item.UnitPrice</td>
+                        <td><button class="btn btn-primary" @onclick="() => Add(item)">Add</button></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div>
+        @if (basket.Items != null)
         {
+            @foreach (var item in basket.Items)
+            {
+                <div class="row">
+                    <span>Item SKU: @item.ItemSKU  Qty: @item.Qty</span>
+                </div>
+            }
             <div class="row">
-                <span>Item SKU: @item.ItemSKU  Qty: @item.Qty</span>
+                <span>Total Qty: @basket.TotalQty Total Price: @basket.TotalPrice</span>
             </div>
         }
-        <div class="row">
-            <span>Total Qty: @basket.TotalQty Total Price: @basket.TotalPrice</span>
-        </div>
-    }
 
-</div>
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Item SKU</th>
-                <th>Unit Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in items)
-            {
-            <tr>
-                <td>@item.ItemSKU</td>
-                <td>@item.UnitPrice</td>
-                <td><button class="btn btn-primary" @onclick="() => Add(item)">Add</button></td>
-            </tr>
-            }
-        </tbody>
-    </table>
+    </div>
+
 }
 
 @code {
@@ -53,7 +56,8 @@ else
     }
 
 
-    void Add(Item item) {
+    void Add(Item item)
+    {
         basket.AddToBasket(item);
     }
 

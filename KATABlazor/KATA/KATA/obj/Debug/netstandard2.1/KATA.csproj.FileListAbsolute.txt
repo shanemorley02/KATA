@@ -1,12 +1,5 @@
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.AssemblyInfoInputs.cache
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.AssemblyInfo.cs
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.csproj.CoreCompileInputs.cache
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.RazorComponent.input.cache
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Items.razor.g.cs
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\Properties\launchSettings.json
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\KATA.StaticWebAssets.xml
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\KATA.dll
@@ -85,7 +78,6 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\w
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
@@ -124,7 +116,6 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\w
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\KATA.pdb.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
@@ -159,6 +150,15 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\S
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.AssemblyInfoInputs.cache
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.AssemblyInfo.cs
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.csproj.CoreCompileInputs.cache
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.RazorComponent.input.cache
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Items.razor.g.cs
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\RazorDeclaration\KATA.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.TagHelpers.input.cache
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.TagHelpers.output.cache
@@ -347,6 +347,6 @@ C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\s
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\staticwebassets\KATA.StaticWebAssets.xml
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.dll
 C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\KATA.pdb
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\JOXNNnf_8DekXcNNrC7c3JKv0kTUVtgj-NDgYO7zlc4=.hash
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\Hxz5tL0EmdVLb8_1_2XHLt3yR5xXD4D0R9FW2EbvX_k=.hash
-C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\nMrxz4uQ_0386cUgvi7K_VGXm7q4DHmLvWvIA_UbIUk=.hash
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\kW8HDaZuNj7_k3LaAsg7s79R-OQmvKLINjq9HQBDKHE=.hash
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\vpsAURSNO71iJcwXu3on2tJV1MNvLB4A2LR7R50fdw4=.hash
+C:\Users\Morley\source\repos\Git\KATABlazor\KATA\KATA\obj\Debug\netstandard2.1\integrity\bJ5IvSAfq09e9G37iZWsaNAm6r1McjSOclbBhNrs1uQ=.hash
