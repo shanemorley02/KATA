@@ -6,8 +6,8 @@ using static KATA.Pages.Items;
 
 namespace KATA
 {
-    public interface IPricingService
+    public interface IPromotion
     {
-        public decimal CalculateTotalPrice(IEnumerable<Item> items);
+        public decimal Calculate(Item item);
     }
 }
